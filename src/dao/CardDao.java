@@ -2,7 +2,6 @@ package dao;
 
 import model.Card;
 import model.CardItem;
-import model.Customer;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.hibernate.criterion.*;
